@@ -27,25 +27,21 @@ CSS
 
 \*_User has to clone the repository and run index.html file using any web browser_
 
+
 ## Authors
 
-👤 **Uchenna Martins Anya**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [Uchenna Martins Anya](https://github.com/uchennaanya)
-- Twitter: [@martinsanya19](https://twitter.com/martinsanya19)
-- linkedIn: [Uchenna Anya](https://www.linkedin.com/in/uchenna-anya)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
 
-👤 **Divyesh Patel**
-
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Div685/The-New-Web-Clone/issues).
+Feel free to connect anytime.
 
 ## Show your support
 
